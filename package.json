@@ -7,6 +7,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@craco/craco": "^6.1.1",
     "antd": "^4.14.0",
     "babel-plugin-import": "^1.13.3",
     "dva": "^2.4.1",
